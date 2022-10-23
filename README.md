@@ -20,6 +20,10 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
  6.Display the result x[k]
 
 ## Program:
+
+Developed by:sarvesh.s
+
+RegisterNumber: 22003029
 ```
 import numpy as np
 import sys
